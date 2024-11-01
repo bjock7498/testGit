@@ -1,9 +1,9 @@
-package main
+package main // namespace stuff
 
-import (
+import ( // import fmt lib
 	"fmt"
 )
 
 func main() {
-	fmt.Println("Hello World")
+	fmt.Println("Hello World") // print "Hello World"
 }
