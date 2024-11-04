@@ -1,1 +1,0 @@
-Go Lang or "Go" for short, was made by a Google developer. It has similarities between some C languages, and Python. It's very flexible from being able to do web applications, backend systems, and data manipulation.
